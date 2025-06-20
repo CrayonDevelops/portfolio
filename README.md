@@ -6,7 +6,7 @@ Built with HTML, CSS, and JavaScript, this site is a simple yet functional way f
 
 ## 🔗 Live Site
 
-👉 [View Portfolio](https://your-username.github.io/your-repo-name/)  
+👉 [View Portfolio](https://crayondevelops.github.io/portfolio/)  
 
 
 ---
