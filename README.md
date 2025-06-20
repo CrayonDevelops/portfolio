@@ -7,7 +7,7 @@ Built with HTML, CSS, and JavaScript, this site is a simple yet functional way f
 ## 🔗 Live Site
 
 👉 [View Portfolio](https://your-username.github.io/your-repo-name/)  
-*(Replace the link with your actual GitHub Pages deployment if you have one)*
+
 
 ---
 
