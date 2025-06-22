@@ -32,7 +32,7 @@ I'm a high school student (Grade 12, CBSE) currently based in the UAE, originall
 - **Python GUI Calculator** — A calculator app built using Tkinter in python.  
   [→ View on GitHub](https://github.com/CrayonDevelops/tkinter-calculator)
 
-- **Python GUI To-Do List** — A To-Do List app built using Tkinter in python.
+- **Python GUI To-Do List** — A To-Do List app built using Tkinter in python.   
   [→ View on GitHub](https://github.com/CrayonDevelops/to-do-list)
 
 - **Hackathons** — Currently participating in hackathons to learn and build with peers.
