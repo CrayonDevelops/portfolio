@@ -53,6 +53,7 @@ Feel free to reach out if you'd like to collaborate or connect:
 
 - 📧 Email: [abdulrahman123mohd@gmail.com](mailto:abdulrahman123mohd@gmail.com)
 - 🧑‍💻 GitHub: [@CrayonDevelops](https://github.com/CrayonDevelops)
+- 📍🔗 Instagram: [@Onlycrayon22](https://instagram.com/onlycrayon22)
 
 ---
 
