@@ -88,7 +88,6 @@ header {
   cursor: pointer;
 }
 
-
 .hero {
   position: relative;
   padding: 6rem 2rem;
@@ -159,7 +158,6 @@ header {
   display: none;
 }
 
-/* SECTIONS */
 .section {
   max-width: 900px;
   margin: 3rem auto;
@@ -208,37 +206,38 @@ header {
   color: #39a0ed;
 }
 
-.project-list {
+#projects {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+#projects .project-list {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
+  flex-direction: column;
+  gap: 2.5rem; 
 }
 
 .project-card {
   background: #161b22;
-  padding: 1.5rem;
+  padding: 1rem;
   border-radius: 10px;
-  width: 100%;
-  max-width: 450px;
+  width: 90%;  
+  max-width: 420px; 
   box-shadow: 0 0 10px #0f4c75;
   transition: box-shadow 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  cursor: pointer;
   overflow: hidden;
-}
-
-.project-card:hover {
-  box-shadow: 0 0 20px #238636;
-  transform: translateY(-5px);
+  margin-left: 0; 
 }
 
 .project-card img {
   width: 100%;
-  height: 180px;
-  object-fit: cover;
+  height: 200px;
   border-radius: 10px 10px 0 0;
+  object-fit: cover;
   display: block;
   transition: transform 0.4s ease;
 }
@@ -247,17 +246,24 @@ header {
   transform: scale(1.05);
 }
 
+.project-card > div {
+  padding: 1rem 0 0 0;
+  color: #c9d1d9;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
 .project-card h3 {
-  margin-top: 1rem;
-  margin-bottom: 0.8rem;
+  margin: 0;
   color: #39a0ed;
 }
 
 .project-card p {
+  margin: 0;
   flex-grow: 1;
-  margin-bottom: 1rem;
-  color: #c9d1d9;
 }
+
 
 .btn-secondary {
   background: #0969da;
@@ -291,7 +297,6 @@ footer {
   margin-top: 3rem;
 }
 
-
 .content-with-img {
   display: flex;
   align-items: center;
@@ -319,7 +324,6 @@ footer {
   flex: 1;
 }
 
-
 .fade-in {
   opacity: 0;
   transform: translateY(40px);
@@ -330,7 +334,6 @@ footer {
   opacity: 1;
   transform: translateY(0);
 }
-
 
 @media(max-width: 900px) {
   .nav-links {
@@ -370,7 +373,6 @@ footer {
     max-width: 300px;
   }
 }
-  
 
 @keyframes fadeInUp {
   0% {
